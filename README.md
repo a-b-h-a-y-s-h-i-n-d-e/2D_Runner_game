@@ -4,6 +4,9 @@
 A begineer level project, made this using pygame, and add some character sprites, make my own map ! 
 
 
+[<img src="demo.mp4" width="50%">]
+
+
 ## Installation
 
 Before installing pygame, you must check that Python is installed on your machine. To find out, open a command prompt (if you have Windows) or a terminal (if you have MacOS or Linux) and type this:
@@ -39,9 +42,6 @@ Go to the project directory
 Just run main.py 
 [ Make sure the path for dependencies are correct !]
 
-
-
-## Demo
 
 
 
