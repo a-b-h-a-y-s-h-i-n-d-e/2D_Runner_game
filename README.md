@@ -4,7 +4,7 @@
 A begineer level project, made this using pygame, and add some character sprites, make my own map ! 
 
 
-[<img src="demo.mp4" width="50%">]
+<img src="demo.mp4" width="50%">
 
 
 ## Installation
